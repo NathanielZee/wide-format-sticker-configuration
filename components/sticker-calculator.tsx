@@ -495,7 +495,7 @@ export default function StickerCalculator() {
 
               {artworkMethod === "design" && (
                 <div className="p-4 border border-gray-300 rounded bg-gray-50">
-                  <p className="text-gray-700 text-sm">Redirecting to Antigro Designer...</p>
+                  <p className="text-gray-700 text-sm">Redirecting to Sticker Ninja Designer...</p>
                 </div>
               )}
 
